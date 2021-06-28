@@ -1,0 +1,48 @@
+body
+{
+    background-image: url(../images/teaser.jpg);
+    background-position: center ;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+/* Header */
+header h3
+{
+    font-size: 1.17em;
+    font-weight: bold;
+}
+header .container
+{
+    color:black;
+    border-bottom: 1px solid #999;
+}
+/* Requirments */
+.requirments
+{
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    padding: 30px;
+}
+.requirments label
+{
+    font-family: 'Roboto', sans-serif;
+}
+#bookmark
+{
+    border-bottom: 1px solid #999;
+}
+.listInfo 
+{
+   /* background-image: linear-gradient(#EEE,#FFF);*/
+    margin: 10px 0;
+    padding: 20px;
+}
+/* Footer */
+footer
+{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
